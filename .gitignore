@@ -1,0 +1,14 @@
+# Go build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
